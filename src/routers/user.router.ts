@@ -43,6 +43,11 @@ export const userRouter = router({
         name: "Monu",
         email: "monu@email.com",
       },
+      {
+        id: 3,
+        name: "Ronit",
+        email: "ronit@email.com",
+      },
     ];
   }),
 });
